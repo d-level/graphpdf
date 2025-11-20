@@ -95,7 +95,7 @@ A camembert-shaped diagram. [Demo](https://d-level.github.io/graphpdf/examples/p
 
 ### `BarChart`
 
-Bar charts can map each data row to either a single bar ([demo](https://d-level.github.io/graphpdf/examples/barchart.html)) or multiple bars ([demo](https://matteokeole.github.io/graphpdf/examples/barchart2.html)).
+Bar charts can map each data row to either a single bar ([demo](https://d-level.github.io/graphpdf/examples/barchart.html)) or multiple bars ([demo](https://d-level.github.io/graphpdf/examples/barchart2.html)).
 
 #### Data structure (single)
 
